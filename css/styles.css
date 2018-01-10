@@ -1,0 +1,25 @@
+body{
+  background-color: coral;
+  text-align: center;
+  font-family: cursive;
+}
+h1{
+  color: limegreen;
+}
+h3{
+
+  font-size: 20pt;
+  font-family: monospace;
+}
+p{
+  font-weight: bold;
+  line-height: 1px;
+}
+
+ul{
+  list-style-position: inside;
+}
+
+ol{
+  list-style-position: inside;
+}
